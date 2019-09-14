@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/akmukherjee/Udacity_Project4_Kubernetes.svg?style=svg)](https://circleci.com/gh/akmukherjee/Udacity_Project4_Kubernetes)
 
 ## Project Overview
 
